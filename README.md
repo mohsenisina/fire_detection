@@ -4,4 +4,4 @@ fire and smoke detection
 Smoke and fire detection using YOLO and pre-trained models on labeled data
 
 
-![Uploading IMG_1198.jpg…]()
+![Uploading IMG_1198.jpg…]
